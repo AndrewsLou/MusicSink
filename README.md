@@ -89,3 +89,4 @@ All via `.env` / environment variables (see `.env.example`):
 - Cheap hosting: this is a lightweight single-container polling service, so
   it comfortably runs on the smallest tier of any VPS (e.g. a $4-6/mo
   droplet/instance) or a free-tier always-on container host.
+# MusicSink
